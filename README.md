@@ -33,6 +33,7 @@ You can install the required modules via pip:
 
 ```bash
 pip install requests beautifulsoup4 python-whois
+```
 
 ## Usage
 
