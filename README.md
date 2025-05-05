@@ -40,12 +40,13 @@ pip install requests beautifulsoup4 python-whois
 Run the script with the following arguments:
 ```bash
 python scanner.py <url> <wordlist> <subdomains>
+```
 
-•	url: The target URL to scan.
+• url: The target URL to scan.
 
-•	wordlist: The path to the file containing a list of directories or paths to search.
+• wordlist: The path to the file containing a list of directories or paths to search.
 
-•	subdomains: The path to the file containing a list of subdomains to enumerate.
+• subdomains: The path to the file containing a list of subdomains to enumerate.
 
 ## EXAMPLE
 
