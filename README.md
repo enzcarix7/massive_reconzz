@@ -55,7 +55,7 @@ python scanner.py <url> <wordlist> <subdomains>
 ## Module Description
 •	scanner.py: This is the main module that performs the domain scanning. It uses various functions to gather information, such as DNS resolution, content analysis, directory scanning, and more.
 
-Main Functions
+## Main Functions
 •	log(msg): A logging function that prints status messages.
 
 •	save_results(filename=“results.txt”): Saves the scanning results to a text file.
